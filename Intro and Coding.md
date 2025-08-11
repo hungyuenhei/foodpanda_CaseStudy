@@ -1,4 +1,5 @@
 ### foodpanda_CaseStudy
+I choose Chain A as analysis target for this exercise to analyse how they can improve their revenue by discount.
 
 ## BQ1 What product categories bring the highest increase in revenue when discounted?
 I would like to identify which categoryies respond best to discounting allowing targeted investment by comparing the category average revenue/product difference between discounted and non-discounted products by using clustered column chart. I extracted the top 10 and bottom 10 categories for analysis.
