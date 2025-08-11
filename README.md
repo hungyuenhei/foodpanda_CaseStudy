@@ -78,9 +78,9 @@ GROUP BY order_date_local_month
 ORDER BY order_date_local_month;
 ```
 
-### Appendix
+## Appendix
 
-## Product Distribution by month
+### Product Distribution by month
 ```sql
 select order_date_local_month,
 SUM(CASE WHEN `total_revenue_from_discounted_products_` > 0 THEN total_discounted_product ELSE NULL END) AS discounted_product,
